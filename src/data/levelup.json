@@ -1,0 +1,6 @@
+[
+    { "nextlevel" : 2, "smallparty" : 3, "bigparty" : 5},
+    { "nextlevel" : 3, "smallparty" : 8, "bigparty" : 10},
+    { "nextlevel" : 4, "smallparty" : 14, "bigparty" : 18},
+    { "nextlevel" : 5, "smallparty" : 18, "bigparty" : 22}
+]

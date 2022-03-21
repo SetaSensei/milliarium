@@ -1,0 +1,111 @@
+{
+    "rewards": [{
+            "title": "Factions & Places",
+            "data": [{
+                    "title": "Join The Cutlass Buccaneers",
+                    "score": 2
+                },
+                {
+                    "title": "Find The Clearlock Sanctuary",
+                    "score": 2
+                },
+                {
+                    "title": "Reach the end of The Eternal Rest Labyrinth",
+                    "score": 2
+                },
+                {
+                    "title": "Find the ancient dwarven stronghold's forges",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "title": "The Enemies",
+            "data": [{
+                    "title": "Kill General Zabghat",
+                    "score": 1
+                },
+                {
+                    "title": "Kill General Grazug",
+                    "score": 1
+                },
+                {
+                    "title": "Kill or befriend The Lying Emissary",
+                    "score": 1
+                },
+                {
+                    "title": "Kill King Aethos",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "title": "The Party",
+            "data": [ {
+                "title": "Mordak's personal quest fulfilled",
+                "score":0.5
+            },
+            {
+                "title": "Boba Fett's personal quest fulfilled",
+                "score":0.5
+            },
+            {
+                "title": "Gardakan's personal quest fulfilled",
+                "score":0.5
+            },
+            {
+                "title": "All characters have fullfilled their personal quest",
+                "score":1
+            }]
+        },
+        {
+            "title": "The plot",
+            "data": [{
+                    "title": "Solve the 'People are having bad dreams every night!' quest",
+                    "score": 1
+                },
+                {
+                    "title": "Find who the geese is",
+                    "score": 1
+                },
+                {
+                    "title": "Resolve the trade blockade",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "title": "Magic Items",
+            "data": [{
+                    "title": "Acquire the Feathered Edge",
+                    "score": 0.25
+                },
+                {
+                    "title": "Acquire the Rainbow Morningstar",
+                    "score": 0.25
+                },
+                {
+                    "title": "Acquire the Resonant Zweihander",
+                    "score": 0.25
+                },
+                {
+                    "title": "Acquire the Beastspeaker's Chain Shirt",
+                    "score": 0.25
+                },
+                {
+                    "title": "Acquire the Surgeon's Hide Armor",
+                    "score": 0.25
+                },
+                {
+                    "title": "Acquire the Sagacious Pendant",
+                    "score": 0.25
+                },
+                {
+                    "title": "Acquire the Protective Medallion",
+                    "score": 0.25
+                }
+            ]
+        }
+
+    ]
+}
