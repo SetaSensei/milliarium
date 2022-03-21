@@ -32,3 +32,23 @@ Inside the `/scr/data` folder you will find two files.
 * `levelup.json` where you can set the leveling up curve (i.e. the number of points to reach in order to gain a level).
 * `rewards.json` where you can set the events, actions & quests you have in mind for the milestones advancement and their respective weigths.
 
+## Usage
+
+### Marking advancement
+
+Just tick the checkboxes and follow the advancement on the right-most table
+![image](https://user-images.githubusercontent.com/8818232/159270926-d5ff359a-f1ed-4a6f-b46a-c33348d5b4ae.png)
+
+### Saving and loading
+
+#### Saving
+Set a name for the file / team in the "Team Name" input and click "Download Json".
+
+You will automatically download the current advancement.
+
+#### Loading 
+Click the "Upload File" button and select the json file you want to upload.
+
+##### Warning
+
+The team name is not set when loading the file.
